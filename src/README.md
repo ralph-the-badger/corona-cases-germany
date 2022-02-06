@@ -14,4 +14,4 @@ This is data is only used for private use. It is not intended to use the data fo
 
 ## Stack
 
-React, D3
+React, D3, HTML, CSS, JavaScript
