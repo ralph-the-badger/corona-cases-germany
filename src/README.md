@@ -8,13 +8,10 @@ This application visualizes the numbers of the Corona virus cases in Germany fro
 
 The data used for this application are from the Robert-Koch-Institut (RKI). The RKI updates their numbers each week. The data can be retrieved [here](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Altersverteilung.html).
 
-
-
-
-
-
-
-
-This is data from the Robert-Koch-Institute (RKI) showing the covid cases per age group. Data was downloaded from https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Altersverteilung.html This data was edited so that the calendar weeks are shown from top to bottom (instead from left to right). The according age groups are also shown from top to bottom, respectively. The RKI's age groups cover a range of 5 years (0-4, 5-9, ..., 80-84, 85-89, 90+). In this analysis, two age groups were summed up to cover a range of ten years, respectively (0-9, 10-19, 20-29, ..., 80-89, 90+).
+The data was edited. The RKI's data includes age groups that span 5 years each: 0-4 year, 5-9 years, ..., 80-84 years, 85-90 years, 90+ years. In this analysis I added up two age groups to get the following age groups: 0-9 years, 10-19 years, ..., 80-89 years and 90+ Jahre. Furthermore, the absolute numbers of Corona cases of each age group were used to calculate the relative numbers of cases to figure out how severly each age group was affecting in the course of time.
 
 This is data is only used for private use. It is not intended to use the data for commercial use.
+
+## Stack
+
+React, D3
