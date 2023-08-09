@@ -151,6 +151,7 @@ function App() {
             <a
               href="https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Altersverteilung.html"
               target="_blank"
+              rel="noreferrer"
             >
               https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Altersverteilung.html
             </a>
@@ -172,7 +173,7 @@ function App() {
             Nutzen. Die Daten werden nicht kommerziell genutzt.
           </p>
           <h2>Programmierung</h2>
-          <p>React, D3</p>
+          <p>React, D3, HTML, CSS, JavaScript</p>
         </div>
       </>
     </div>
